@@ -11,6 +11,14 @@ Clean and minimal design
 
 Built with plain HTML, CSS, and JavaScript
 
+# Screenshots
+
+(screenshots/screenshot-03-initial-screen.png)
+(screenshots/screenshot-01-datepicker-open.png)
+(screenshots/screenshot-02-age-result.png)
+
+
+
 # 🛠️ Tech Stack
 
 HTML
