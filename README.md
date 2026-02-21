@@ -13,11 +13,11 @@ Built with plain HTML, CSS, and JavaScript
 
 # Screenshots
 
-(screenshots/screenshot-03-initial-screen)
+(screenshots/screenshot-03-initial-screen.png)
 
-(screenshots/screenshot-01-datepicker-open)
+(screenshots/screenshot-01-datepicker-open.png)
 
-(screenshots/screenshot-02-age-result)
+(screenshots/screenshot-02-age-result.png)
 
 
 
