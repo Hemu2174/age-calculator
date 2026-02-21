@@ -13,9 +13,9 @@ Built with plain HTML, CSS, and JavaScript
 
 # Screenshots
 
-(screenshots/screenshot-03-initial-screen)
-(screenshots/screenshot-01-datepicker-open)
-(screenshots/screenshot-02-age-result)
+(Age-Calculator/screenshots/screenshot-03-initial-screen)
+(Age-Calculator/screenshots/screenshot-01-datepicker-open)
+(Age-Calculator/screenshots/screenshot-02-age-result)
 
 
 
