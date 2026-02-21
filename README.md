@@ -13,11 +13,9 @@ Built with plain HTML, CSS, and JavaScript
 
 # Screenshots
 
-(screenshots/screenshot-03-initial-screen.png)
-
-(screenshots/screenshot-01-datepicker-open.png)
-
-(screenshots/screenshot-02-age-result.png)
+![Initial Screen](screenshots/screenshot-03-initial-screen.png)
+![Datepicker Open](screenshots/screenshot-01-datepicker-open.png)
+![Age Result](screenshots/screenshot-02-age-result.png)
 
 
 
